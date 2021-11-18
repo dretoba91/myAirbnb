@@ -1,0 +1,19 @@
+.location {
+  display: flex;
+  justify-content: center;
+  width: 106px;
+  height: 18px;
+  left: 1063px;
+  top: 51px;
+
+  font-family: Mulish;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 18px;
+  /* identical to box height */
+
+  margin: 19px 16px 18px 16px;
+  color: #333333;
+  /* border: none; */
+}
